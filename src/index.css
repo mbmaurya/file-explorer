@@ -1,13 +1,60 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.accordion-container {
+  position: relative;
+}
+
+.accordion-item {
+  border: none;
+}
+
+.accordion-item .accordion-button {
+  background: unset;
+  border-color: unset;
+  box-shadow: unset;
+  padding: 12px 0px;
+}
+
+.accordion-item .accordion-body {
+  padding: 0px 0px 0px 40px;
+}
+
+.file {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.file p {
+  margin: 0;
+}
+
+.file svg,
+.accordion-button svg {
+  margin-right: 10px;
+}
+
+th,
+td {
+  vertical-align: middle;
+}
+
+table th .table-title {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 0px;
+  border-bottom: 1px solid #e7e7e7;
+  margin-bottom: 10px;
 }

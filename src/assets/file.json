@@ -1,0 +1,720 @@
+{
+    "list": [
+        {
+            "fullPath": "1ebbf7d2-fb6c-4b3d-939c-01c274c54aa0-example.jpg",
+            "fileName": "1ebbf7d2-fb6c-4b3d-939c-01c274c54aa0-example.jpg",
+            "size": "7468",
+            "timeCreated": "2024-06-10T05:07:03.849Z",
+            "updated": "2024-06-10T05:07:04.316Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "32949fa5-0583-4374-a57f-d14859918d76-images.png",
+            "fileName": "32949fa5-0583-4374-a57f-d14859918d76-images.png",
+            "originalname": "images.png",
+            "size": "5599",
+            "contentType": "image/png",
+            "timeCreated": "2024-05-24T08:52:27.404Z",
+            "updated": "2024-05-24T08:52:27.404Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "53bd3974-63dd-4256-81d2-a725357e3019-example.jpg",
+            "fileName": "53bd3974-63dd-4256-81d2-a725357e3019-example.jpg",
+            "originalname": "example.jpg",
+            "size": "7468",
+            "contentType": "text/plain",
+            "timeCreated": "2024-05-30T11:03:56.300Z",
+            "updated": "2024-05-30T11:03:56.300Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "927896f6-b5c1-482f-82be-fe26fdc99d62-example.jpg",
+            "fileName": "927896f6-b5c1-482f-82be-fe26fdc99d62-example.jpg",
+            "originalname": "example.jpg",
+            "size": "7468",
+            "contentType": "text/plain",
+            "timeCreated": "2024-05-27T07:28:47.650Z",
+            "updated": "2024-05-27T07:28:47.650Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "Srikanth Sriram Company 5-BGL000217/pre-proposal-documents/Previous 3 years Tax return/b255b28a-236d-4973-b38a-ebf999da805d-dummy-pdf-2.pdf",
+            "fileName": "b255b28a-236d-4973-b38a-ebf999da805d-dummy-pdf-2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T05:47:50.256Z",
+            "updated": "2024-06-10T05:47:50.256Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "Srikanth Sriram Company 5-BGL000217/pre-proposal-documents/QB Backup (if any)/8b0ebb92-7672-4270-832f-6e4d313b55ac-dummy-pdf-2.pdf",
+            "fileName": "8b0ebb92-7672-4270-832f-6e4d313b55ac-dummy-pdf-2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T05:47:51.394Z",
+            "updated": "2024-06-10T05:47:51.394Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "Testsure Pvt. Ltd-BGL000271/pre-proposal-documents/Previous 3 years Tax return/8ba790ad-aaf4-4016-b622-aab7552f67be-Tax-Returns.pdf",
+            "fileName": "8ba790ad-aaf4-4016-b622-aab7552f67be-Tax-Returns.pdf",
+            "originalname": "Tax Returns.pdf",
+            "size": "213282",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-28T08:25:29.788Z",
+            "updated": "2024-06-28T08:25:29.788Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "The:Aheadrace-BGL000236/pre-proposal-documents/Any open Notices from Federal or State/97fbdaef-2b88-4771-b23f-c20a8729ee19-dummy-pdf-2.pdf",
+            "fileName": "97fbdaef-2b88-4771-b23f-c20a8729ee19-dummy-pdf-2.pdf",
+            "originalname": "dummy-pdf_2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T05:58:17.604Z",
+            "updated": "2024-06-10T05:58:17.604Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "The:Aheadrace-BGL000236/pre-proposal-documents/Previous 3 years Tax return/d60ac955-b25b-421b-8bc8-d3c44947cc03-dummy-pdf-2.pdf",
+            "fileName": "d60ac955-b25b-421b-8bc8-d3c44947cc03-dummy-pdf-2.pdf",
+            "originalname": "dummy-pdf_2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T05:58:18.566Z",
+            "updated": "2024-06-10T05:58:18.566Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "The:Aheadrace-BGL000238/onboarding-documents/Copies of Incorporation/618243a1-f067-4552-ac1c-d03336d9d4b5-dummy-pdf-2.pdf",
+            "fileName": "618243a1-f067-4552-ac1c-d03336d9d4b5-dummy-pdf-2.pdf",
+            "originalname": "dummy-pdf_2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T05:58:19.504Z",
+            "updated": "2024-06-10T05:58:19.504Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "The:Aheadrace-BGL000238/onboarding-documents/Work papers for tax returns/3e070cae-5b24-4ae8-ae1b-f8bb94bc68d4-dummy-pdf-2.pdf",
+            "fileName": "3e070cae-5b24-4ae8-ae1b-f8bb94bc68d4-dummy-pdf-2.pdf",
+            "originalname": "dummy-pdf_2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T05:58:20.509Z",
+            "updated": "2024-06-10T05:58:20.509Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "The:Aheadrace-BGL000238/pre-proposal-documents/Previous 3 years Tax return/b0de7457-16b0-4a2d-85d0-7c5f61362fb7-dummy-pdf-2.pdf",
+            "fileName": "b0de7457-16b0-4a2d-85d0-7c5f61362fb7-dummy-pdf-2.pdf",
+            "originalname": "dummy-pdf_2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T05:58:21.528Z",
+            "updated": "2024-06-10T05:58:21.528Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "Wayne Enterprises-BGL000272/pre-proposal-documents/Any open Notices from Federal or State/f4b58e5a-0b90-4a12-87f5-b426932d01f6-pdf2.pdf",
+            "fileName": "f4b58e5a-0b90-4a12-87f5-b426932d01f6-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-19T06:54:43.300Z",
+            "updated": "2024-06-19T06:54:43.300Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "Wayne Enterprises-BGL000272/pre-proposal-documents/Previous 3 years Tax return/4d3c3c6d-27b2-4db9-94c0-1e6c362d73f3-dummy-5.pdf",
+            "fileName": "4d3c3c6d-27b2-4db9-94c0-1e6c362d73f3-dummy-5.pdf",
+            "originalname": "dummy-5.pdf",
+            "size": "13264",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-19T06:54:44.421Z",
+            "updated": "2024-06-19T06:54:44.421Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "Wayne Enterprises-BGL000272/pre-proposal-documents/QB Backup (if any)/58903237-87c3-4c34-97f3-0efb5d5070d1-pdf2.pdf",
+            "fileName": "58903237-87c3-4c34-97f3-0efb5d5070d1-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-19T06:54:45.514Z",
+            "updated": "2024-06-19T06:54:45.514Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "acebe2dd-bb7e-4b8f-82a6-fb2dee285ea5-images.png",
+            "fileName": "acebe2dd-bb7e-4b8f-82a6-fb2dee285ea5-images.png",
+            "originalname": "images.png",
+            "size": "5599",
+            "contentType": "image/png",
+            "timeCreated": "2024-05-24T08:51:26.746Z",
+            "updated": "2024-05-24T08:51:26.746Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "ashok-prazapati-BGL000238/e-signs/1e34b811-36f2-48b0-b6a9-409fe7537c51-0759af47-eb83-4bca-8f71-32c24d65cca3-signed-document.pdf",
+            "fileName": "1e34b811-36f2-48b0-b6a9-409fe7537c51-0759af47-eb83-4bca-8f71-32c24d65cca3-signed-document.pdf",
+            "originalname": "0759af47-eb83-4bca-8f71-32c24d65cca3-signed_document",
+            "size": "200319",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-07-24T06:17:02.479Z",
+            "updated": "2024-07-24T06:17:02.479Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "ashok-prazapati-BGL000238/e-signs/2e06076f-fff9-4a85-ab0b-85886ed0a921-cce5b087-b3b8-4bb1-be0a-281e1ffd74f4-signed-document.pdf",
+            "fileName": "2e06076f-fff9-4a85-ab0b-85886ed0a921-cce5b087-b3b8-4bb1-be0a-281e1ffd74f4-signed-document.pdf",
+            "originalname": "cce5b087-b3b8-4bb1-be0a-281e1ffd74f4-signed_document",
+            "size": "200319",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-07-24T06:21:39.948Z",
+            "updated": "2024-07-24T06:21:39.948Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "ashok-prazapati-BGL000238/e-signs/93e4b150-4113-4bbf-9ca6-233d06234638-e744bc37-152c-4637-a020-4bf68ea37ea1-signed-document.pdf",
+            "fileName": "93e4b150-4113-4bbf-9ca6-233d06234638-e744bc37-152c-4637-a020-4bf68ea37ea1-signed-document.pdf",
+            "originalname": "e744bc37-152c-4637-a020-4bf68ea37ea1-signed_document",
+            "size": "200319",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-07-24T06:05:04.812Z",
+            "updated": "2024-07-24T06:05:04.812Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "ashok-prazapati-BGL000238/e-signs/a956a362-fc30-4c3a-a214-c49e5dbc41d6-7945cbd4-65c1-4e98-afe5-55bf5e611572-signed-document.pdf",
+            "fileName": "a956a362-fc30-4c3a-a214-c49e5dbc41d6-7945cbd4-65c1-4e98-afe5-55bf5e611572-signed-document.pdf",
+            "originalname": "7945cbd4-65c1-4e98-afe5-55bf5e611572-signed_document",
+            "size": "200319",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-07-24T06:11:01.812Z",
+            "updated": "2024-07-24T06:11:01.812Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "ashok-prazapati-BGL000238/e-signs/b008dbce-dc4b-4a5d-910e-d9b7d41e4900-9a9d9c49-cc5d-4a62-b9ab-c716badb722a-signed-document.pdf",
+            "fileName": "b008dbce-dc4b-4a5d-910e-d9b7d41e4900-9a9d9c49-cc5d-4a62-b9ab-c716badb722a-signed-document.pdf",
+            "originalname": "9a9d9c49-cc5d-4a62-b9ab-c716badb722a-signed_document",
+            "size": "200319",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-07-24T06:09:17.559Z",
+            "updated": "2024-07-24T06:09:17.559Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "ashok-prazapati-BGL000238/e-signs/b684ae64-8654-48d8-9ccb-f9f611b389b4-e01b87cd-6173-4a87-be38-3d3b4960ca58-signed-document.pdf",
+            "fileName": "b684ae64-8654-48d8-9ccb-f9f611b389b4-e01b87cd-6173-4a87-be38-3d3b4960ca58-signed-document.pdf",
+            "originalname": "e01b87cd-6173-4a87-be38-3d3b4960ca58-signed_document",
+            "size": "200319",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-07-24T05:47:01.230Z",
+            "updated": "2024-07-24T05:47:01.230Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "ashok-prazapati-BGL000238/e-signs/c70c0df7-498d-41e8-abc9-fc11db233251-01b47828-97b1-4451-829c-92e03f627949-signed-document.pdf",
+            "fileName": "c70c0df7-498d-41e8-abc9-fc11db233251-01b47828-97b1-4451-829c-92e03f627949-signed-document.pdf",
+            "originalname": "01b47828-97b1-4451-829c-92e03f627949-signed_document",
+            "size": "200319",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-07-24T06:18:51.413Z",
+            "updated": "2024-07-24T06:18:51.413Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "ashok-prazapati-BGL000238/e-signs/d70de355-6f53-4f48-aea7-502b3a3de2a4-93393be0-9910-4c79-8b92-0867c42dc304-signed-document.pdf",
+            "fileName": "d70de355-6f53-4f48-aea7-502b3a3de2a4-93393be0-9910-4c79-8b92-0867c42dc304-signed-document.pdf",
+            "originalname": "93393be0-9910-4c79-8b92-0867c42dc304-signed_document",
+            "size": "200319",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-07-24T06:06:24.743Z",
+            "updated": "2024-07-24T06:06:24.743Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "ashok-prazapati-BGL000238/e-signs/dd1bb064-2d40-4bad-a108-3b5e34b5b1a7-3928b04a-79b1-411f-bea2-1844e71c32cc-signed-document.pdf",
+            "fileName": "dd1bb064-2d40-4bad-a108-3b5e34b5b1a7-3928b04a-79b1-411f-bea2-1844e71c32cc-signed-document.pdf",
+            "originalname": "3928b04a-79b1-411f-bea2-1844e71c32cc-signed_document",
+            "size": "200319",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-07-24T06:18:11.056Z",
+            "updated": "2024-07-24T06:18:11.056Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "business-BGL000243/pre-proposal-documents/Previous 3 years Tax return/06ddc692-6b4f-4f67-8c5e-4d738d992f01-pdf2.pdf",
+            "fileName": "06ddc692-6b4f-4f67-8c5e-4d738d992f01-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T07:45:19.876Z",
+            "updated": "2024-06-10T07:45:19.876Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "business-BGL000243/pre-proposal-documents/Previous 3 years Tax return/8b24b769-4dfb-4d3f-b704-d0f2127ffab5-pdf2.pdf",
+            "fileName": "8b24b769-4dfb-4d3f-b704-d0f2127ffab5-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T07:45:21.134Z",
+            "updated": "2024-06-10T07:45:21.134Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "business-BGL000243/pre-proposal-documents/Previous 3 years Tax return/a09a5971-9e4d-4bb0-a588-5d542d9ee1a2-pdf2.pdf",
+            "fileName": "a09a5971-9e4d-4bb0-a588-5d542d9ee1a2-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T07:45:22.247Z",
+            "updated": "2024-06-10T07:45:22.247Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "business-BGL000243/pre-proposal-documents/Previous 3 years Tax return/a4bd0135-b7f4-470b-b044-ae45c266f83e-pdf2.pdf",
+            "fileName": "a4bd0135-b7f4-470b-b044-ae45c266f83e-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T07:45:23.338Z",
+            "updated": "2024-06-10T07:45:23.338Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "business-BGL000243/pre-proposal-documents/Previous 3 years Tax return/a7e1e16c-bb87-4b0e-90b1-fe06867aab7e-pdf2.pdf",
+            "fileName": "a7e1e16c-bb87-4b0e-90b1-fe06867aab7e-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T07:45:24.661Z",
+            "updated": "2024-06-10T07:45:24.661Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "business-BGL000243/pre-proposal-documents/Previous 3 years Tax return/c8528554-0750-4e72-80f0-52ab305baf04-Notices-sheet-Template.xlsx",
+            "fileName": "c8528554-0750-4e72-80f0-52ab305baf04-Notices-sheet-Template.xlsx",
+            "originalname": "Notices sheet Template.xlsx",
+            "size": "11614",
+            "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "timeCreated": "2024-06-18T12:45:44.190Z",
+            "updated": "2024-06-18T12:45:44.190Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "c3231de6-2d29-4193-b39a-f66a7fc6d04a-images.png",
+            "fileName": "c3231de6-2d29-4193-b39a-f66a7fc6d04a-images.png",
+            "originalname": "images.png",
+            "size": "5599",
+            "contentType": "image/png",
+            "timeCreated": "2024-05-27T07:02:07.937Z",
+            "updated": "2024-05-27T07:02:07.937Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "client-business_11-BGL000243/pre-proposal-documents/Previous 3 years Tax return/2b88df59-f3db-40be-a109-4c3843e94f18-pdf2.pdf",
+            "fileName": "2b88df59-f3db-40be-a109-4c3843e94f18-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-05-28T04:46:28.994Z",
+            "updated": "2024-05-28T04:46:28.994Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "client-business_11-BGL000243/pre-proposal-documents/Previous 3 years Tax return/359730d0-c4ed-49b3-b8f0-9c2ad0983116-pdf2.pdf",
+            "fileName": "359730d0-c4ed-49b3-b8f0-9c2ad0983116-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-05-28T04:53:13.364Z",
+            "updated": "2024-05-28T04:53:13.364Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "client-business_11-BGL000243/pre-proposal-documents/Previous 3 years Tax return/3e2bf700-5d26-487d-88a0-0220d5c52143-pdf2.pdf",
+            "fileName": "3e2bf700-5d26-487d-88a0-0220d5c52143-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-05-28T05:26:16.478Z",
+            "updated": "2024-05-28T05:26:16.478Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "client-business_11-BGL000243/pre-proposal-documents/Previous 3 years Tax return/940f4fd1-7809-4777-9db4-05b1796d5cbd-pdf2.pdf",
+            "fileName": "940f4fd1-7809-4777-9db4-05b1796d5cbd-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-05-28T05:27:08.109Z",
+            "updated": "2024-05-28T05:27:08.109Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "client-business_11-BGL000243/pre-proposal-documents/Previous 3 years Tax return/d476adc0-c962-4fc3-9e8b-dd1f8f7f000d-pdf2.pdf",
+            "fileName": "d476adc0-c962-4fc3-9e8b-dd1f8f7f000d-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-05-27T12:53:13.573Z",
+            "updated": "2024-05-27T12:53:13.573Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "client-business_11-BGL000243/pre-proposal-documents/Previous 3 years Tax return/f6777727-0178-4766-88be-9ce205ab275c-pdf2.pdf",
+            "fileName": "f6777727-0178-4766-88be-9ce205ab275c-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-05-27T12:51:34.924Z",
+            "updated": "2024-05-27T12:51:34.924Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "client-individual 11-BGL000244/pre-proposal-documents/Previous 3 years Tax return/913c6a1a-da9c-4688-9525-f3da7cdf21c4-pdf2.pdf",
+            "fileName": "913c6a1a-da9c-4688-9525-f3da7cdf21c4-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-05-28T05:58:18.759Z",
+            "updated": "2024-05-28T05:58:18.759Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "client-individual_11-BGL000244/pre-proposal-documents/Previous 3 years Tax return/027843b3-343c-4cfd-b82e-1078b0a61280-pdf2.pdf",
+            "fileName": "027843b3-343c-4cfd-b82e-1078b0a61280-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-05-28T05:23:04.096Z",
+            "updated": "2024-05-28T05:23:04.096Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "client-individual_11-BGL000244/pre-proposal-documents/Previous 3 years Tax return/d7ac19cc-3ce8-465e-a9c7-dcff7cd42df4-pdf2.pdf",
+            "fileName": "d7ac19cc-3ce8-465e-a9c7-dcff7cd42df4-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-05-28T05:21:52.590Z",
+            "updated": "2024-05-28T05:21:52.590Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "e74f93f8-f19f-49d3-be9e-2b2d3777736d-example.jpg",
+            "fileName": "e74f93f8-f19f-49d3-be9e-2b2d3777736d-example.jpg",
+            "originalname": "example.jpg",
+            "size": "7468",
+            "contentType": "text/plain",
+            "timeCreated": "2024-05-24T08:38:03.379Z",
+            "updated": "2024-05-24T08:38:03.379Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "e8e832a0-5bf7-4cfd-8680-cbe7600f5a6f-images.png",
+            "fileName": "e8e832a0-5bf7-4cfd-8680-cbe7600f5a6f-images.png",
+            "originalname": "images.png",
+            "size": "5599",
+            "contentType": "image/png",
+            "timeCreated": "2024-05-24T08:52:57.342Z",
+            "updated": "2024-05-24T08:52:57.342Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "e9293265-1196-4069-a832-6dca4e0396e1-example.jpg",
+            "fileName": "e9293265-1196-4069-a832-6dca4e0396e1-example.jpg",
+            "originalname": "example.jpg",
+            "size": "7468",
+            "contentType": "text/plain",
+            "timeCreated": "2024-05-24T08:41:53.613Z",
+            "updated": "2024-05-24T08:41:53.613Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "fileRename/0ae72169-374d-4055-b091-6b7f3b43b89a-dummy-5.pdf",
+            "fileName": "0ae72169-374d-4055-b091-6b7f3b43b89a-dummy-5.pdf",
+            "originalname": "dummy-5.pdf",
+            "size": "13264",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T06:07:53.016Z",
+            "updated": "2024-06-10T06:07:53.016Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "fileRename/folder-1/folder-1-1/2a5b4ee0-0539-46bd-bbc6-0c46e6d1e0b8-dummy-5.pdf",
+            "fileName": "2a5b4ee0-0539-46bd-bbc6-0c46e6d1e0b8-dummy-5.pdf",
+            "originalname": "dummy-5.pdf",
+            "size": "13264",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T06:07:54.125Z",
+            "updated": "2024-06-10T06:07:54.125Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "fileRename/folder-2/58b2a0fc-139f-4a99-8c4e-192a85c4b437-dummy-5.pdf",
+            "fileName": "58b2a0fc-139f-4a99-8c4e-192a85c4b437-dummy-5.pdf",
+            "originalname": "dummy-5.pdf",
+            "size": "13264",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T06:07:55.236Z",
+            "updated": "2024-06-10T06:07:55.236Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "fileRename/folder-2/folder2-2/d7986ccb-5d4f-4d70-8014-82955fb3cce1-dummy-5.pdf",
+            "fileName": "d7986ccb-5d4f-4d70-8014-82955fb3cce1-dummy-5.pdf",
+            "originalname": "dummy-5.pdf",
+            "size": "13264",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T06:07:56.423Z",
+            "updated": "2024-06-10T06:07:56.423Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "folder flow test 01-BGL000259/pre-proposal-documents/Previous 3 years Tax return/307fb415-385d-437d-9f04-f787433e043a-dummy-5.pdf",
+            "fileName": "307fb415-385d-437d-9f04-f787433e043a-dummy-5.pdf",
+            "originalname": "dummy-5.pdf",
+            "size": "13264",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T07:10:23.835Z",
+            "updated": "2024-06-10T07:10:23.835Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "individual-BGL000242/pre-proposal-documents/Previous 3 years Tax return/0942633c-f31f-4755-a363-e4a993f30300-pdf1.pdf",
+            "fileName": "0942633c-f31f-4755-a363-e4a993f30300-pdf1.pdf",
+            "originalname": "pdf1.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-05-27T12:31:55.770Z",
+            "updated": "2024-05-27T12:31:55.770Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "individual-BGL000242/pre-proposal-documents/Previous 3 years Tax return/c8bb1e31-0dce-47c7-9006-aeffa76e6d1e-pdf1.pdf",
+            "fileName": "c8bb1e31-0dce-47c7-9006-aeffa76e6d1e-pdf1.pdf",
+            "originalname": "pdf1.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-05-27T12:54:45.797Z",
+            "updated": "2024-05-27T12:54:45.797Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "lead Vaibav raj 01-BGL000246/pre-proposal-documents/Previous 3 years Tax return/b4cb7c62-820d-4d86-bda5-45bbbb5abb4e-pdf1.pdf",
+            "fileName": "b4cb7c62-820d-4d86-bda5-45bbbb5abb4e-pdf1.pdf",
+            "originalname": "pdf1.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T05:56:44.595Z",
+            "updated": "2024-06-10T05:56:44.595Z",
+            "storageClass": "STANDARD"
+        },
+        {
+            "fullPath": "lead test 001-BGL000262/pre-proposal-documents/Any open Notices from Federal or State/d56a369a-590b-448c-900b-42bc8450fb7d-pdf2.pdf",
+            "fileName": "d56a369a-590b-448c-900b-42bc8450fb7d-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:42:56.081Z",
+            "updated": "2024-06-10T09:42:56.081Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "lead test 001-BGL000262/pre-proposal-documents/Previous 3 years Tax return/c0b49aa0-e393-44c9-9a92-3dc6daa06dae-dummy-5.pdf",
+            "fileName": "c0b49aa0-e393-44c9-9a92-3dc6daa06dae-dummy-5.pdf",
+            "originalname": "dummy-5.pdf",
+            "size": "13264",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:42:50.552Z",
+            "updated": "2024-06-10T09:42:50.552Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "lead test 001-BGL000262/pre-proposal-documents/QB Backup (if any)/720c0c1e-d286-4a59-a8f3-2c44796b8586-pdf1.pdf",
+            "fileName": "720c0c1e-d286-4a59-a8f3-2c44796b8586-pdf1.pdf",
+            "originalname": "pdf1.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:42:53.190Z",
+            "updated": "2024-06-10T09:42:53.190Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "lead test 004-BGL000265/pre-proposal-documents/Any open Notices from Federal or State/8779e433-66da-4ea0-aabf-f5a85efd4c2b-pdf2.pdf",
+            "fileName": "8779e433-66da-4ea0-aabf-f5a85efd4c2b-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:41:08.345Z",
+            "updated": "2024-06-10T09:41:08.345Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "lead test 004-BGL000265/pre-proposal-documents/Previous 3 years Tax return/b0eab165-4de1-4ce6-abf0-9b9270d62ecc-dummy-5.pdf",
+            "fileName": "b0eab165-4de1-4ce6-abf0-9b9270d62ecc-dummy-5.pdf",
+            "originalname": "dummy-5.pdf",
+            "size": "13264",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:41:00.937Z",
+            "updated": "2024-06-10T09:41:00.937Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "lead test 004-BGL000265/pre-proposal-documents/QB Backup (if any)/527302e7-6ab3-4557-8f62-3861876cfb4b-dummy-pdf-2.pdf",
+            "fileName": "527302e7-6ab3-4557-8f62-3861876cfb4b-dummy-pdf-2.pdf",
+            "originalname": "dummy-pdf_2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:41:05.032Z",
+            "updated": "2024-06-10T09:41:05.032Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "lead test 005-BGL000266/pre-proposal-documents/Any open Notices from Federal or State/a9ce8b02-1132-43a0-86a4-3c37b529ccd4-pdf2.pdf",
+            "fileName": "a9ce8b02-1132-43a0-86a4-3c37b529ccd4-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:41:41.886Z",
+            "updated": "2024-06-10T09:41:41.886Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "lead test 005-BGL000266/pre-proposal-documents/Previous 3 years Tax return/92fe5ff0-2e6a-4874-9834-6daa75c58ed2-dummy-5.pdf",
+            "fileName": "92fe5ff0-2e6a-4874-9834-6daa75c58ed2-dummy-5.pdf",
+            "originalname": "dummy-5.pdf",
+            "size": "13264",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:41:32.337Z",
+            "updated": "2024-06-10T09:41:32.337Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "lead test 005-BGL000266/pre-proposal-documents/QB Backup (if any)/3ac0fb35-75a2-4447-8dce-2f8a389cbe18-dummy-pdf-2.pdf",
+            "fileName": "3ac0fb35-75a2-4447-8dce-2f8a389cbe18-dummy-pdf-2.pdf",
+            "originalname": "dummy-pdf_2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:41:35.732Z",
+            "updated": "2024-06-10T09:41:35.732Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "lucid-BGL000275/pre-proposal-documents/Previous 3 years Tax return/f99db8a0-7cb0-4b60-9d24-24d3be88b9ff-agreement-payroll-taxes-OLD.pdf",
+            "fileName": "f99db8a0-7cb0-4b60-9d24-24d3be88b9ff-agreement-payroll-taxes-OLD.pdf",
+            "originalname": "agreement-payroll-taxes-OLD.pdf",
+            "size": "170976",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-07-24T07:59:37.953Z",
+            "updated": "2024-07-24T07:59:37.953Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "manideep reddy-BGL000268/pre-proposal-documents/Any open Notices from Federal or State/04f2aa01-744d-4a93-9f53-1873c8d5cc50-OpTransactionHistory11-04-2021-1-.pdf",
+            "fileName": "04f2aa01-744d-4a93-9f53-1873c8d5cc50-OpTransactionHistory11-04-2021-1-.pdf",
+            "originalname": "OpTransactionHistory11-04-2021 (1).pdf",
+            "size": "38945",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-19T07:59:21.845Z",
+            "updated": "2024-06-19T07:59:21.845Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "manideep reddy-BGL000268/pre-proposal-documents/Previous 3 years Tax return/840577e1-c2b1-4936-8e1e-aa08c8f931cc-OpTransactionHistory11-04-2021-1-.pdf",
+            "fileName": "840577e1-c2b1-4936-8e1e-aa08c8f931cc-OpTransactionHistory11-04-2021-1-.pdf",
+            "originalname": "OpTransactionHistory11-04-2021 (1).pdf",
+            "size": "38945",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-19T07:59:13.607Z",
+            "updated": "2024-06-19T07:59:13.607Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "manideep reddy-BGL000268/pre-proposal-documents/QB Backup (if any)/103c4bd7-bb5c-4b19-9216-2801888e92f6-Adobe-Scan-11-Jun-2021.pdf",
+            "fileName": "103c4bd7-bb5c-4b19-9216-2801888e92f6-Adobe-Scan-11-Jun-2021.pdf",
+            "originalname": "Adobe Scan 11 Jun 2021.pdf",
+            "size": "312727",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-19T07:59:17.547Z",
+            "updated": "2024-06-19T07:59:17.547Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "test  client 628-BGL000276/pre-proposal-documents/Previous 3 years Tax return/d7c5b6c0-2d33-4111-b79b-841a354042c1-ACH.pdf",
+            "fileName": "d7c5b6c0-2d33-4111-b79b-841a354042c1-ACH.pdf",
+            "originalname": "ACH.pdf",
+            "size": "224341",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-28T09:47:04.668Z",
+            "updated": "2024-06-28T09:47:04.668Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "test lead 002-BGL000263/pre-proposal-documents/Any open Notices from Federal or State/5e9083d2-7fa0-4ddb-9369-ef79a4276d8c-dummy-pdf-2.pdf",
+            "fileName": "5e9083d2-7fa0-4ddb-9369-ef79a4276d8c-dummy-pdf-2.pdf",
+            "originalname": "dummy-pdf_2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:42:34.865Z",
+            "updated": "2024-06-10T09:42:34.865Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "test lead 002-BGL000263/pre-proposal-documents/Previous 3 years Tax return/d77d80db-7905-4b9b-ac97-a38938616737-pdf1.pdf",
+            "fileName": "d77d80db-7905-4b9b-ac97-a38938616737-pdf1.pdf",
+            "originalname": "pdf1.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:42:29.314Z",
+            "updated": "2024-06-10T09:42:29.314Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "test lead 002-BGL000263/pre-proposal-documents/QB Backup (if any)/fddbe6e7-13d8-4911-be75-c61788cfc5ed-pdf2.pdf",
+            "fileName": "fddbe6e7-13d8-4911-be75-c61788cfc5ed-pdf2.pdf",
+            "originalname": "pdf2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:42:31.874Z",
+            "updated": "2024-06-10T09:42:31.874Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "test lead 003-BGL000264/pre-proposal-documents/Any open Notices from Federal or State/bbf44c05-c7e0-458b-9463-06cae0d02846-dummy-5.pdf",
+            "fileName": "bbf44c05-c7e0-458b-9463-06cae0d02846-dummy-5.pdf",
+            "originalname": "dummy-5.pdf",
+            "size": "13264",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:42:11.124Z",
+            "updated": "2024-06-10T09:42:11.124Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "test lead 003-BGL000264/pre-proposal-documents/Previous 3 years Tax return/98f7a6e2-48b8-4a7b-8d7a-004aafe07269-dummy-5.pdf",
+            "fileName": "98f7a6e2-48b8-4a7b-8d7a-004aafe07269-dummy-5.pdf",
+            "originalname": "dummy-5.pdf",
+            "size": "13264",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:42:05.537Z",
+            "updated": "2024-06-10T09:42:05.537Z",
+            "storageClass": "NEARLINE"
+        },
+        {
+            "fullPath": "test lead 003-BGL000264/pre-proposal-documents/QB Backup (if any)/b15ef018-9ee4-49b9-bd19-fb14c79332eb-dummy-pdf-2.pdf",
+            "fileName": "b15ef018-9ee4-49b9-bd19-fb14c79332eb-dummy-pdf-2.pdf",
+            "originalname": "dummy-pdf_2.pdf",
+            "size": "7478",
+            "contentType": "application/pdf",
+            "timeCreated": "2024-06-10T09:42:08.679Z",
+            "updated": "2024-06-10T09:42:08.679Z",
+            "storageClass": "NEARLINE"
+        }
+    ]
+}

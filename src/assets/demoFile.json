@@ -1,0 +1,23 @@
+{
+  "list": [
+    {
+      "fullPath": "927896f6-b5c1-482f-82be-fe26fdc99d62-example.jpg",
+      "fileName": "927896f6-b5c1-482f-82be-fe26fdc99d62-example.jpg",
+      "originalname": "example.jpg",
+      "size": "7468",
+      "contentType": "text/plain",
+      "timeCreated": "2024-05-27T07:28:47.650Z",
+      "updated": "2024-05-27T07:28:47.650Z",
+      "storageClass": "NEARLINE"
+    },
+    {
+      "fullPath": "Srikanth Sriram Company 5-BGL000217/pre-proposal-documents/Previous 3 years Tax return/b255b28a-236d-4973-b38a-ebf999da805d-dummy-pdf-2.pdf",
+      "fileName": "b255b28a-236d-4973-b38a-ebf999da805d-dummy-pdf-2.pdf",
+      "size": "7478",
+      "contentType": "application/pdf",
+      "timeCreated": "2024-06-10T05:47:50.256Z",
+      "updated": "2024-06-10T05:47:50.256Z",
+      "storageClass": "STANDARD"
+    }
+  ]
+}
